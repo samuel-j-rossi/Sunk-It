@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SunkIt</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sunkit">SunkIt!</string>
+    <string name="add_player">Add Player</string>
+    <string name="die_up">DIE UP!</string>
+    <string name="leaderboards">LEADERBOARDS</string>
+    <string name="how_to_play">how to play</string>
+    <string name="a_beginners_guide_to_the_sport_of_beer_die">A Beginners Guide to The Sport of Beer Die</string>
+    <string name="_2_two_teams_of_two_compete">2. Two teams of two compete.</string>
+    <string name="_3_each_player_places_a_cup_filled_with_a_drink_beer_for_21_in_their_corner_of_the_table">3. Each player places a cup filled with a drink (beer for 21+) in their corner of the table.</string>
+    <string name="_4_each_team_rolls_one_die_and_the_highest_number_opens_the_game">4. Each team rolls one die and the highest number opens the game.</string>
+    <string name="_1_die_is_a_formal_game_to_be_played_with_respect">1. Die is a formal game to be played with respect.</string>
+    <string name="_5_one_at_a_time_players_throw_thier_die_up_in_the_air_to_at_least_a_suitable_height_determined_before_play_commences">5. One at a time, players throw thier die up in the air to at least a suitable height determined before play commences.</string>
+    <string name="_6_the_die_thrown_must_hit_the_table_beyond_the_midline">6. The die thrown must hit the table beyond the midline.</string>
+    <string name="_7_the_defending_team_must_catch_the_die_after_it_bounces_off_the_table_with_just_one_hand_before_it_hits_the_ground">7. The defending team must catch the die after it bounces off the table with just one hand before it hits the ground.</string>
+    <string name="_8_players_score_if_the_opposing_team_fails_to_catch_the_die_1_point_for_hitting_just_the_table_2_points_for_hitting_a_cup_3_points_for_sinking_the_die_in_the_cup">8. Players score if the opposing team fails to catch the die. 1 point for hitting just the table, 2 points for hitting a cup, 3 points for sinking the die in the cup.</string>
+    <string name="_9_games_are_won_by_scoring_11_points_and_having_a_lead_of_at_least_2_points">9. Games are won by scoring 11 points and having a lead of at least 2 points.</string>
+    <string name="return_home">Return Home</string>
+    <string name="place_holder_for_leaderboard">Place holder for leaderboard</string>
+    <string name="place_holder_for_adding_players">Place Holder for adding players</string>
+    <string name="dye_up">DYE UP!</string>
+    <string name="place_holder_for_main_game">place holder for main game</string>
+
+    <string name="_9_games_are_won_by_scoring_12_points_and_having_a_lead_of_at_least_2_points" />
+    <string name="_9_games_are_won_once_one_team_reaches_12_points_and_having_a_lead_of_at_least_2_points_in_the_event_of_a_high_scoring_game_such_as_12_11_the_game_ends_once_a_team_secures_a_2_point_lead">9. Games are won once one team reaches 12 points and having a lead of at least 2 points. In the event of a high scoring game (such as 12-11) the game ends once a team secures a 2 point lead.</string>
+=======
+    <string name="enter_the_name_of_a_new_player">Enter the name of a new player</string>
+    <string name="save_new_player">Save New Player</string>
+    <string name="add_the_name_of_a_new_player">Add the name of a new player</string>
+    <string name="add_win">Add win</string>
+    <string name="global_bar_graph">Global Bar Graph</string>
+    <string name="global_pie_chart">Global Pie Chart</string>
+    >>>>>>> Stashed changes
+</resources>
