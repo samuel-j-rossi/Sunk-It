@@ -1,2 +1,4 @@
 # Sunk-It
- 
+ For my Senior project for the Computer Science program at Villanova University, I worked collaboratively with two of my peers to create the mobile app “SunkIt!” for Android. Our goal for this project was to create a companion app the game captivating college students everywhere, beer dye. The app provides live statistical tracking for individual games as well as all time statistics. Users are able to create profiles within the app which are converted into database entries with attached elements for various stats within the game. The app contains leaderboard functions as well as live data visualization. All stats can be updated live and are immediately reflected on the app.
+	During this project, I was responsible for all front-end capabilities. This included designing the app, which was done using AndroidStudio. This role included designing the overall appearance of the app, building the functionality of various elements, and establishing a connection to the database.
+
